@@ -1,5 +1,5 @@
 import flask
-from flask import render_template, request
+from flask import Flask, render_template, request
 import sklearn
 from sklearn import preprocessing
 from sklearn.preprocessing import MinMaxScaler
