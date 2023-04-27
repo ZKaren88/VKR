@@ -12,7 +12,7 @@
 
 ## Примененные в работе методы и модели прогнозирования:
 
-Linear Regressor, Random Forest Regressor, Gradient Boosting Regressor, KNeighborsRegressor, Support Vector Regressor, Decision Tree Regressor, последовательная искусственная нейронная сеть.
+Linear Regressor, Random Forest Regressor, Gradient Boosting Regressor, KNeighbors Regressor, Support Vector Regressor, Decision Tree Regressor, последовательная искусственная нейронная сеть.
 
 ## Примененные в работе алгоритмы развертывания модели прогнозирования: 
 
