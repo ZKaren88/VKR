@@ -14,12 +14,18 @@
 
 Linear Regressor, Random Forest Regressor, Gradient Boosting Regressor, KNeighborsRegressor, Support Vector Regressor, Decision Tree Regressor, последовательная искусственная нейронная сеть.
 
-## Примененные в работе алгоритмы развертывания модели прогноирования: Flask
+## Примененные в работе алгоритмы развертывания модели прогноирования: 
+
+Flask
 
 ## Приложения:
 
 README.md - файл с описанием
+
 ВКР_Заргарян.ipynb.ipynb - блокнот с кодом работы
+
 ВКР Заргарян.docx - пояснительная записка
+
 Шаблон_презентации_ЦДО_МГТУимБаумана_обновлённый Заргарян.pptx - презентация
+
 App - flask-приложение
