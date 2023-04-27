@@ -14,7 +14,7 @@
 
 Linear Regressor, Random Forest Regressor, Gradient Boosting Regressor, KNeighborsRegressor, Support Vector Regressor, Decision Tree Regressor, последовательная искусственная нейронная сеть.
 
-## Примененные в работе алгоритмы развертывания модели прогноирования: 
+## Примененные в работе алгоритмы развертывания модели прогнозирования: 
 
 Flask
 
